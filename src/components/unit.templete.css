@@ -1,0 +1,24 @@
+.list-group .active {
+    background-color: #ffc002 !important;
+    border-color: #ffc107 !important;
+    color: rgba(0, 0, 0, 0.6) !important;
+    font-weight: 700;
+}
+.dropdown-menu .active {
+    background-color: #ffc002 !important;
+    border-color: #ffc107 !important;
+    color: rgba(0, 0, 0, 0.6) !important;
+    font-weight: 700;
+}
+.dropdown-item:hover {
+    background-color: #fff2cc !important;
+    border-color: #fff2cc !important;
+    color: rgba(0, 0, 0, 0.6) !important;
+    font-weight: 700;
+}
+.list-group-item:hover {
+    background-color: #fff2cc !important;
+    border-color: #fff2cc !important;
+    color: rgba(0, 0, 0, 0.6) !important;
+    font-weight: 700;
+}
